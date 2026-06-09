@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:3600
+
+# El cambio ocurre el 9 de Junio de 2026 a las 18:00:00 (Hora local de tu servidor)
+#EXT-X-PROGRAM-DATE-TIME:2026-06-09T18:00:00Z
+stream://localhost/SEÑAL_SECUNDARIA1
+
+# El regreso ocurre el 9 de Junio de 2026 a las 20:00:00
+#EXT-X-PROGRAM-DATE-TIME:2026-06-09T20:00:00Z
+stream://localhost/SEÑAL_PRINCIPAL2
+
