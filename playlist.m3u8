@@ -1,10 +1,7 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:3600
 
-# Ponemos las 08:00 AM para asegurarnos de que ya pasó y se active inmediatamente
-#EXT-X-PROGRAM-DATE-TIME:2026-06-09T08:00:00
-urls://hlss://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main.m3u8
+#EXT-X-PROGRAM-DATE-TIME:2026-06-10T15:00:00-03:00
+stream://localhost/TVE
 
-# El cambio automático ocurrirá a las 6 de la tarde (Hora local de tu servidor)
-#EXT-X-PROGRAM-DATE-TIME:2026-06-09T18:00:00
-stream://localhost/TU_OTRA_SEÑAL
+#EXT-X-PROGRAM-DATE-TIME:2026-06-10T15:05:00-03:00
+stream://localhost/TV_BOX
