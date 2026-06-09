@@ -3,7 +3,7 @@
 
 # Ponemos las 08:00 AM para asegurarnos de que ya pasó y se active inmediatamente
 #EXT-X-PROGRAM-DATE-TIME:2026-06-09T08:00:00
-hls://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main.m3u8
+urls://https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main.m3u8
 
 # El cambio automático ocurrirá a las 6 de la tarde (Hora local de tu servidor)
 #EXT-X-PROGRAM-DATE-TIME:2026-06-09T18:00:00
